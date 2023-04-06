@@ -14,3 +14,5 @@ Use the tool to:
 - Select a number character limit for the returned PIN (some services require 6-digit PIN codes and some other 8 or more),
 - See some examples to get you inspired,
 - Copy the suggested PIN based on your words with a button
+
+### WIP
