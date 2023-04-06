@@ -1,4 +1,4 @@
-# Alphabet to Number Converter
+# Words to Pin Code
 
 ## Convert words' characters into their position in the alphabet.
 
