@@ -1,0 +1,27 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  box-sizing: border-box;
+}
+
+/*.app {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  flex-direction: column;
+}*/
+
+table {
+  border-collapse: collapse;
+  max-width: 70vw;
+  min-width: 5vw;
+}
+
+td {
+  border: 2px solid #dddddd;
+  padding: .5rem;
+  vertical-align: middle;
+  text-align: center;
+  
+  min-width: 15px;
+  max-width: 30px;
+}
