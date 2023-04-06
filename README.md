@@ -11,8 +11,8 @@ I've been doing that for forever now. I think it's a fun way to remember your PI
 
 Use the tool to:
 - Get your new PIN Code based on the words you input,
-- Select a number character limit for the returned PIN (some services require 6-digit PIN codes and some other 8 or more),
+- Select a digit limit (some services require 6-digit PIN codes and some other 8 or more),
 - See some examples to get you inspired,
-- Copy the suggested PIN based on your words with a button
+- Copy the suggested PIN with a button
 
 ### WIP
